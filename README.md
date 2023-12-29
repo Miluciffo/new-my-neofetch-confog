@@ -1,2 +1,2 @@
 # new-my-neofetch-confog
-none
+new my neofetch
